@@ -1,0 +1,122 @@
+{
+  "framework": {
+    "name": "The Speed of Trust",
+    "author": "Stephen M. R. Covey",
+    "components": {
+      "self_trust": {
+        "name": "Self Trust",
+        "four_cores_of_credibility": [
+          {
+            "id": "core_1",
+            "name": "Integrity",
+            "domain": "Character",
+            "definition": "Congruence between values, words, and actions.",
+            "operationalization": [
+              "Keep commitments to yourself.",
+              "Stand for something (act from clear values).",
+              "Be honest and open."
+            ]
+          },
+          {
+            "id": "core_2",
+            "name": "Intent",
+            "domain": "Character",
+            "definition": "Genuine concern and motive to seek mutual benefit.",
+            "operationalization": [
+              "Examine and refine your motives.",
+              "Declare your intent explicitly.",
+              "Choose abundance over scarcity."
+            ]
+          },
+          {
+            "id": "core_3",
+            "name": "Capabilities",
+            "domain": "Competence",
+            "definition": "The talents, skills, knowledge, and style used to produce results.",
+            "operationalization": [
+              "Run with your strengths.",
+              "Keep yourself relevant (keep learning).",
+              "Accept new challenges to grow."
+            ]
+          },
+          {
+            "id": "core_4",
+            "name": "Results",
+            "domain": "Competence",
+            "definition": "Track record of performance and getting the right things done.",
+            "operationalization": [
+              "Take responsibility for outcomes, not just activity.",
+              "Finish strong (close loops, complete deliverables).",
+              "Build a visible track record over time."
+            ]
+          }
+        ]
+      },
+      "relationship_trust": {
+        "name": "Relationship Trust",
+        "thirteen_behaviors_of_high_trust": [
+          {
+            "id": "behavior_1",
+            "name": "Talk Straight",
+            "core_intent": "Be honest and tell the truth.",
+            "operationalization": [
+              "Use simple language.",
+              "Call things what they are.",
+              "Avoid spin and withholding."
+            ]
+          },
+          {
+            "id": "behavior_2",
+            "name": "Demonstrate Respect",
+            "core_intent": "Show that you genuinely care for others.",
+            "operationalization": [
+              "Respect everyone, not only powerful people.",
+              "Show kindness in small interactions.",
+              "Treat others with dignity."
+            ]
+          },
+          {
+            "id": "behavior_3",
+            "name": "Create Transparency",
+            "core_intent": "Be open and authentic.",
+            "operationalization": [
+              "Err on the side of disclosure.",
+              "Operate as 'what you see is what you get'.",
+              "Avoid hidden agendas."
+            ]
+          },
+          {
+            "id": "behavior_4",
+            "name": "Right Wrongs",
+            "core_intent": "Make restitution when you are wrong.",
+            "operationalization": [
+              "Apologize quickly.",
+              "Make it right (restitution, repair).",
+              "Do not cover up mistakes."
+            ]
+          },
+          {
+            "id": "behavior_5",
+            "name": "Show Loyalty",
+            "core_intent": "Give credit to others and speak about them as if present.",
+            "operationalization": [
+              "Give credit freely.",
+              "Do not badmouth people who are not in the room.",
+              "Represent absent stakeholders fairly."
+            ]
+          },
+          {
+            "id": "behavior_6",
+            "name": "Deliver Results",
+            "core_intent": "Establish a track record of getting the right things done.",
+            "operationalization": [
+              "Define results clearly upfront.",
+              "Do what you said you would do.",
+              "Avoid overpromising and underdelivering."
+            ]
+          },
+          {
+            "id": "behavior_7",
+            "name": "Get Better",
+            "core_intent": "Continuously improve.",
+            "operati
